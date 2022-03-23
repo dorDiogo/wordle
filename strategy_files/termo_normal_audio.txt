@@ -1,0 +1,1443 @@
+Strategy for initial guess: audio. Expected average score: 3.4445. Total guesses used: 4967.
+audio BBBBB1 meter BYBYB2 plebe BBGBG3 chefe GGGGG4
+                                GGGGG3 
+                   BYBYY2 prece BGGBG3 breve BGGGG4 greve GGGGG5
+                                             GGGGG4 
+                                YGGYG3 crepe GGGGG4
+                                GGGGG3 
+                   BYYBY2 trens GGGGG3
+                   BYYYY2 treze GGGGG3
+                   BYGGB2 estes GGGGG3
+                   BGBYY2 lebre BGBYG3 cerne GGGGG4
+                                BGGGG3 febre GGGGG4
+                                GGGGG3 
+                   BGBGB2 vezes GGGGG3
+                   BGBGY2 reles GGBGG3 reves GGGGG4
+                                GGGGG3 
+                   BGBGG2 reler BGBGG3 beber GGGGG4
+                                GGBGG3 rever GGBGG4 reger GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   BGYYB2 lapso BBBBB3 gente GGGGG4
+                                BBBYB3 veste GGGGG4
+                                BBYBB3 pente GGGGG4
+                                BBYYB3 peste GGGGG4
+                                GBBBB3 lente GGGGG4
+                                GBBYB3 leste GGGGG4
+                   BGYYY2 rente GGGGG3
+                   BGYGB2 teses GGGGG3
+                   BGYGG2 tecer GGGGG3
+                   BGGGG2 reter GGGGG3
+                   YYBYY2 creme GGGGG3
+                   YGBYY2 verme BGGGG3 germe GGGGG4
+                                GGGGG3 
+                   YGBGB2 nenem GGGGG3
+                   YGBGY2 refem GGGGG3
+                   YGBGG2 gemer GGGGG3
+                   GGBYY2 merce GGGGG3
+                   GGBGB2 meses GGGGG3
+                   GGBGG2 mexer GGGGG3
+                   GGGGG2 
+      BBBBY1 pores BYBBG2 olhos GBBGG3 ossos GGGGG4
+                                GGGGG3 
+                   BYBYB2 clone BYYBY3 veloz GGGGG4
+                                GGGGG3 
+                   BYBYY2 oeste GGGGG3
+                   BYBYG2 belos BGBGG3 menos GGGGG4
+                                BGGGG3 selos GGGGG4
+                                GGGGG3 
+                   BYBGB2 ontem GGGGG3
+                   BYBGG2 leoes GGGGG3
+                   BYYYB2 tenor BGGGG3 menor GGGGG4
+                                YGBGG3 vetor GGGGG4
+                                GYBYY3 trote GGGGG4
+                                GGBGG3 temor GGGGG4
+                                GGGGG3 
+                   BYYYY2 setor GGGGG3
+                   BYYGB2 obter GGGGG3
+                   BYGYB2 feroz GGGGG3
+                   BYGYG2 meros BYGGG3 erros GGGGG4
+                                GGGGG3 
+                   BGBBB2 colon GGGGG3
+                   BGBBG2 flint BBBBB3 jogos GGGGG4
+                                BBBBY3 votos GGGGG4
+                                BBBYB3 novos GGGGG4
+                                BYBBB3 lobos GGGGG4
+                                GBBBB3 focos GGBGG4 fogos GGGGG5
+                                             GGGGG4 
+                                GBBBY3 fotos GGGGG4
+                   BGBYB2 monte BGGBG3 longe GGGGG4
+                                BGGGG3 fonte GGGGG4
+                                GGGBG3 monge GGGGG4
+                                GGGGG3 
+                   BGBYY2 tosse GGGGG3
+                   BGBGB2 hotel BGBGB3 jovem GGGGG4
+                                BGBGG3 movel GGGGG4
+                                BGGGB3 totem GGGGG4
+                                BGGGG3 motel GGGGG4
+                                GGBGB3 homem GGGGG4
+                                GGGGG3 
+                   BGBGG2 nozes BGBGG3 voces GGGGG4
+                                BGGGG3 vozes GGGGG4
+                                GGBGG3 nomes GGGGG4
+                                GGGGG3 
+                   BGYBB2 motor GGGGG3
+                   BGYBG2 rolos GGBGG3 robos GGGGG4
+                                GGGGG3 
+                   BGYYB2 cobre BGGGG3 nobre GGGGG4
+                                GGBGG3 cofre GGGGG4
+                                GGGGG3 
+                   BGYYY2 sobre GGGGG3
+                   BGYGB2 comer BGYGG3 mover GGGGG4
+                                GGGGG3 
+                   BGGYB2 norte BGGYG3 torre GGGGG4
+                                BGGGG3 forte GGGGG4
+                                GGGGG3 
+                   BGGYY2 sorte GGGGG3
+                   YYYYB2 expor YBGGG3 repor GGGGG4
+                                GGGGG3 
+                   YGBYB2 golpe GGGGG3
+                   YGGYB2 torpe GGGGG3
+                   GYBYG2 pelos GGGGG3
+                   GYBGG2 peoes GGGGG3
+                   GYYYB2 prole GGGGG3
+                   GGBBG2 pocos GGBGG3 povos GGGGG4
+                                GGGGG3 
+                   GGBYB2 ponte GGGGG3
+                   GGBYY2 poste GGGBG3 posse GGGGG4
+                                GGGGG3 
+                   GGBGB2 polen GGGGG3
+                   GGYYB2 pobre GGGGG3
+                   GGGBG2 poros GGGGG3
+                   GGGYB2 porre GGGGG3
+                   GGGGB2 porem GGGGG3
+      BBBBG1 terco BBBBG2 lombo BYYBG3 gnomo GGGGG4
+                                BGBBG3 vosso BGBBG4 zonzo GGGGG5
+                                             BGGGG4 fosso GGGGG5
+                                             GGGGG4 
+                                BGGGG3 pombo GGGGG4
+                                YYBGG3 globo GGGGG4
+                                YGBBG3 polvo BGGBG4 golfo GGGGG5
+                                             GGGGG4 
+                                YGBYG3 bolso GGGGG4
+                                YGYBG3 molho GGGGG4
+                                GGBBG3 longo GGGGG4
+                                GGGGG3 
+                   BBBGG2 fosco BYBGG3 bloco GGGGG4
+                                GYBGG3 floco GGGGG4
+                                GGGGG3 
+                   BBYBG2 sogro BYBGG3 ombro GGGGG4
+                                BGBYG3 rombo GGGGG4
+                                GGGGG3 
+                   BBYYG2 cloro GBGGG3 choro GGGGG4
+                                GGGGG3 
+                   BBGBG2 morno BGGBG3 gorro BGGGG4 jorro GGGGG5
+                                             GGGGG4 
+                                BGGGG3 forno GGGGG4
+                                GGGBG3 morro GGGGG4
+                                GGGGG3 
+                   BBGYG2 corno GGGBG3 corpo GGGBG4 corvo GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   BBGGG2 porco GGGGG3
+                   BYBBG2 pleno BBYBG3 osseo GGGGG4
+                                BBYYG3 enjoo GGGGG4
+                                BBGBG3 obeso GGGGG4
+                                GGGGG3 
+                   BYBYG2 coeso GGGGG3
+                   BYYBG2 prego BGGBG3 frevo BGGBG4 brejo GGGGG5
+                                             GGGGG4 
+                                BGGGG3 grego GGGGG4
+                                GGGGG3 
+                   BYYYG2 clero GGGGG3
+                   BYYGG2 preco GGGGG3
+                   BGBBG2 vesgo BGBYG3 gemeo GGGGG4
+                                BGYBG3 senso GGGGG4
+                                BGGBG3 mesmo GGGGG4
+                                BGGYG3 gesso GGGGG4
+                                GGBBG3 velho GGGGG4
+                                GGGGG3 
+                   BGBYG2 censo GGGGG3
+                   BGBGG2 pesco BGBGG3 lenco GGGGG4
+                                GGGGG3 
+                   BGYBG2 negro YGYGG3 genro GGGGG4
+                                GGGGG3 
+                   BGGBG2 servo BGGBG3 berro BGGGG4 ferro GGGGG5
+                                             GGGGG4 
+                                BGGYG3 verbo GGGGG4
+                                BGGGG3 nervo GGGGG4
+                                YGGYG3 verso GGGGG4
+                                GGGGG3 
+                   BGGYG2 cervo GGGGG3
+                   BGGGG2 berco BGGGG3 cerco GGGGG4
+                                GGGGG3 
+                   YBBBG2 posto BGYGG3 solto GGGGG4
+                                BGGGG3 gosto GGGGG4
+                                GGBGG3 ponto GGGGG4
+                                GGGGG3 
+                   YBBYG2 conto GGGGG3
+                   YBYBG2 rosto GGGGG3
+                   YBGBG2 morto BGGGG3 horto GGGGG4
+                                GGGGG3 
+                   YYYBG2 preto GGGGG3
+                   YGBBG2 gesto BGBGG3 lento BGGGG4 vento GGGGG5
+                                             GGGGG4 
+                                BGYGG3 sexto GGGGG4
+                                GGGGG3 
+                   YGBYG2 cesto GGBGG3 cento GGGGG4
+                                GGGGG3 
+                   YGYBG2 resto YGBYG3 metro GGGGG4
+                                GGBYG3 retro GGGGG4
+                                GGGGG3 
+                   YGYYG2 cetro GGGGG3
+                   YGGBG2 perto GGGGG3
+                   YGGYG2 certo GGGGG3
+                   GBBBG2 tonto GGGGG3
+                   GBBGG2 tosco GGGGG3
+                   GBYBG2 trono GGGGG3
+                   GBYGG2 troco GGGGG3
+                   GBGBG2 torso GGGBG3 torto GGGGG4
+                                GGGGG3 
+                   GYYBG2 treno GGGBG3 trevo GGGGG4
+                                GGGGG3 
+                   GYYGG2 treco GGGGG3
+                   GGBBG2 tento GGBBG3 tempo GGGGG4
+                                GGBGG3 texto GGGGG4
+                                GGGBG3 tenso GGGGG4
+                                GGGGG3 
+                   GGGBG2 terno GGGBG3 termo GGGGG4
+                                GGGGG3 
+                   GGGGG2 
+      BBBYB1 riste BYBBG2 clipe BBGBG3 feixe GGGGG4
+                                BBGYG3 peixe GGGGG4
+                                GGGGG3 
+                   BYBGG2 elite YYGGG3 leite GGGGG4
+                                GGGGG3 
+                   BYYBY2 inves GGGGG3
+                   BGBBY2 nivel YGBGB3 hifen GGGGG4
+                                GGGGG3 
+                   BGBBG2 filme GGGGG3
+                   BGBGG2 vinte GGGGG3
+                   BGYYY2 times GGGGG3
+                   BGGBG2 cisne GGGGG3
+                   YYBBG2 crime BGGBG3 gripe GGGGG4
+                                GGGGG3 
+                   YYBYG2 tripe GGGGG3
+                   YYYBG2 crise GGGGG3
+                   YGBBY2 ziper BGBGG3 viver GGGGG4
+                                GGGGG3 
+                   YGBBG2 livre GGGGG3
+                   YGBYG2 tigre GGGGG3
+                   YGYBY2 pires GGGGG3
+                   GGBBY2 rimel GGGGG3
+                   GGGGG2 
+      BBBYY1 riste BYBBY2 ponei BGBGG3 volei GGGGG4
+                                GGGGG3 
+                   BYBBG2 foice BYYYG3 icone GGGGG4
+                                BGGGG3 coice GGGGG4
+                                GGGGG3 
+                   BYBGG2 noite GGGGG3
+                   BYYBY2 meios BGGGG3 feios GGGGG4
+                                GGGGG3 
+                   BGBBG2 miope GGGGG3
+                   BGYBB2 finos BGBGG3 vivos GGGGG4
+                                BGGGG3 pinos BGGGG4 hinos GGGGG5
+                                             GGGGG4 
+                                GGBGG3 fixos GGGGG4
+                                GGGGG3 
+                   BGYYB2 mitos BGYGG3 tipos GGGGG4
+                                GGGGG3 
+                   BGGBB2 lisos GGGGG3
+                   YYBBB2 impor GGGGG3
+                   YYBBY2 heroi GGGGG3
+                   YYYBB2 frios GGGGG3
+                   YGBBB2 licor BGBGG3 vigor GGGGG4
+                                GGGGG3 
+                   YGYYB2 tiros GGGGG3
+                   YGGBB2 visor GGGGG3
+                   GGBBB2 rigor GGGGG3
+                   GGYBB2 ricos GGGGG3
+                   GGYYB2 ritos GGGGG3
+                   GGGBB2 risos GGGGG3
+      BBBYG1 lince BYBBB2 tribo BGGBG3 primo GGGGG4
+                                YBGBG3 otimo GGGGG4
+                                YGGBG3 grito GGGGG4
+                                GGGBG3 trigo GGGGG4
+                                GGGGG3 
+                   BYBBY2 jeito BYGGG3 exito GGGGG4
+                                BGGBG3 meigo GGGGG4
+                                YGGBG3 beijo GGGGG4
+                                GGGGG3 
+                   BYBGB2 trico YBGGG3 otico GGGGG4
+                                GGGGG3 
+                   BYBGY2 etico GBGGG3 epico GGGGG4
+                                GGGGG3 
+                   BYYBY2 reino GGGGG3
+                   BGBBB2 ritmo BGBBG3 bispo GGGGG4
+                                BGBYG3 miojo GGGGG4
+                                BGBGG3 sismo GGGGG4
+                                BGYYG3 misto GGGGG4
+                                GGGGG3 
+                   BGBYB2 bicho GGGGG3
+                   BGBGB2 risco BGGGG3 fisco GGGGG4
+                                YGBGG3 circo GGGGG4
+                                GGGGG3 
+                   BGYBB2 nisto YGYBG3 signo GGGGG4
+                                GGGBG3 nisso GGGGG4
+                                GGGGG3 
+                   BGYYB2 nicho GGGGG3
+                   BGGBB2 pingo BGGBG3 vinho BGGBG4 tinto GGGGG5
+                                             BGGGG4 ninho GGGGG5
+                                             GGGGG4 
+                                BGGGG3 bingo GGGGG4
+                                GGGBG3 pinho GGGGG4
+                                GGGGG3 
+                   BGGYB2 cinto GGGGG3
+                   BGGGB2 zinco BGGGG3 cinco GGGGG4
+                                GGGGG3 
+                   YYBBB2 grilo GGGGG3
+                   YYBBY2 ileso GGGGG3
+                   YGBBB2 milho BGGGG3 filho GGGGG4
+                                GGYBG3 miolo GGGGG4
+                                GGGGG3 
+                   YGBYB2 ciclo GGGGG3
+                   GYBBB2 loiro GGGGG3
+                   GYBBY2 leito GGGBG3 leigo GGGGG4
+                                GGGGG3 
+                   GGBBB2 litro GGBBG3 limpo GGGBG4 limbo GGGGG5
+                                             GGGGG4 
+                                GGBGG3 livro GGGGG4
+                                GGGGG3 
+                   GGGBB2 linho GGGGG3
+      BBBGB1 selim BBBGG2 mirim GGGGG3
+                   BBYGB2 viril YGBGG3 civil GGGGG4
+                                GGBGG3 vinil GGGGG4
+                                GGGGG3 
+                   BYBGG2 enfim GGGGG3
+                   BGBGB2 gerir BGGGG3 ferir GGGGG4
+                                GGGGG3 
+                   BGBGG2 cetim GGGGG3
+                   BGGGB2 feliz GGGGG3
+                   YBBGB2 civis GGGGG3
+                   YBGGB2 bilis GGGGG3
+                   YGBGB2 tenis GGGGG3
+                   GGBGB2 serie GGGGG3
+                   GGGGG2 
+      BBBGY1 polir BGBGB2 motim GGGGG3
+                   GGGGG2 
+      BBBGG1 crase BBBBB2 obvio GGGGG3
+                   BBBBY2 genio GGGGG3
+                   BBBYB2 sitio GGBGG3 simio GGGGG4
+                                GGGGG3 
+                   BYBBB2 lirio GGGGG3
+                   BYBBY2 ebrio GGGGG3
+                   BYBYY2 serio GGGGG3
+                   BGBBY2 freio GGGGG3
+                   YBBBB2 vicio GGGGG3
+                   YBBYB2 socio GGGGG3
+                   GBBBB2 cilio GGGGG3
+                   GBBBY2 cheio GGGGG3
+      BBYBB1 deter YGBYY2 verde GGGGG3
+                   GGBYB2 desde GGGGG3
+                   GGBGG2 dever GGGGG3
+                   GGYYB2 dente GGGGG3
+                   GGGGG2 
+      BBYBY1 conde BYBYY2 depor GGGGG3
+                   BGBYY2 dores GGBGG3 doses GGGGG4
+                                GGGGG3 
+                   BGBGG2 lorde GGGGG3
+                   BGGYB2 donos GGGGG3
+                   BGGGG2 bonde GGGGG3
+                   YGBYY2 doces GGGGG3
+                   GGGGG2 
+      BBYBG1 dorso YBYBG2 credo GGGGG3
+                   YBGBG2 lerdo GGGGG3
+                   YYBBG2 exodo GGGGG3
+                   YGBBG2 toldo GGGGG3
+                   YGBYG2 soldo GGGGG3
+                   YGGBG2 bordo BGGGG3 gordo GGGGG4
+                                GGGGG3 
+                   GBBGG2 denso GGGGG3
+                   GBYBG2 dreno GGGGG3
+                   GGYBG2 dobro GGGGG3
+                   GGGGG2 
+      BBYYB1 dizer GGGGG2
+      BBYYY1 ditos GGGGG2
+      BBYYG1 lindo BYBYG2 idoso GGGGG3
+                   BYBGG2 oxido YBGGG3 doido GGGGG4
+                                GGGGG3 
+                   BGBYG2 disso GGGGG3
+                   BGBGG2 diodo GGGGG3
+                   BGYYG2 digno GGGGG3
+                   YYBYG2 idolo GGGGG3
+                   GGGGG2 
+      BBYGB1 debil GGGGG2
+      BBYGY1 docil GGGGG2
+      BBGBB1 redes YGGGB2 ceder GGGGG3
+                   GGGGG2 
+      BBGBY1 mofar BYBBB2 dedos GGGGG3
+                   BYBBG2 redor GGGGG3
+                   BYYBG2 fedor GGGGG3
+                   BGBBB2 todos GGGGG3
+                   BGBBY2 podre GGGGG3
+                   BGBBG2 poder GGGGG3
+                   YYBBY2 ordem GGGGG3
+                   GGBBB2 modos GGGGG3
+      BBGBG1 cedro GGGGG2
+      BBGYB1 lider GGGGG2
+      BBGYY1 lidos GGGGG2
+      BBGYG1 vidro GGGBG2 video GGGGG3
+                   GGGGG2 
+      BBGGB1 medir BGGGG2 pedir GGGGG3
+                   GGGGG2 
+      BBGGG1 toesa BYBBB2 indio GGGGG3
+                   BYYBB2 medio GGGGG3
+                   BGBBB2 podio GGGGG3
+                   BGBYB2 sodio GGGGG3
+                   GYYBB2 tedio GGGGG3
+      BYBBB1 tenue BBBYB2 urubu GGGGG3
+                   BBBYG2 clube GGGGG3
+                   BYBYB2 cruel GGGGG3
+                   BYYGB2 pneus GGGGG3
+                   BGBGB2 jejum GGGGG3
+                   BGBGG2 leque BGBGG3 jegue GGGGG4
+                                GGGGG3 
+                   BGGGB2 venus GGGGG3
+                   GBBYG2 trupe GGGGG3
+                   GGGGG2 
+      BYBBY1 lotus BYBYG2 ursos GGGGG3
+                   BGBYB2 couve GGGGG3
+                   BGBGB2 forum BGBGG3 comum GGGGG4
+                                GGGGG3 
+                   BGBGG2 bonus GGGGG3
+                   BGYGB2 toque GGGGG3
+                   YYBYB2 fluor GGGGG3
+                   GGGGG2 
+      BYBBG1 preco BBBBG2 fluxo BYGBG3 ovulo GGGGG4
+                                GGGGG3 
+                   BBBYG2 chulo GGGGG3
+                   BBBGG2 louco GGGGG3
+                   BYBBG2 touro BGGYG3 roubo GGGGG4
+                                GGGGG3 
+                   BYBYG2 couro GGGGG3
+                   BYBGG2 rouco GGGGG3
+                   BYYBG2 reuso GGGGG3
+                   BYYYG2 recuo GGGGG3
+                   BYGBG2 utero GGGGG3
+                   BGBBG2 bruto BGGGG3 fruto GGGGG4
+                                GGGBG3 bruxo GGGGG4
+                                GGGGG3 
+                   BGBGG2 truco GGGGG3
+                   YGBBG2 grupo GGGGG3
+                   GBBBG2 pouso GGGGG3
+                   GBBGG2 pouco GGGGG3
+                   GGBBG2 prumo GGGGG3
+      BYBYB1 virus BYBYB2 imune GGGGG3
+                   BYBGY2 esqui GGGGG3
+                   BGBYB2 ciume GGGGG3
+                   GGGGG2 
+      BYBYG1 unico GGGGG2
+      BYBGB1 uteis YBBGB2 fluir GGGGG3
+                   GGGGG2 
+      BYYBG1 feudo GGGGG2
+      BYYYB1 dique GGGGG2
+      BYYYG1 umido YYYGG2 miudo GGGGG3
+                   GGGGG2 
+      BGBBB1 cuspe BGBBY2 tunel BGYGB3 nuvem GGGGG4
+                                GGGGG3 
+                   BGBBG2 fuzue GGGGG3
+                   BGYBY2 luzes GGGGG3
+                   BGYBG2 surfe GGGGG3
+                   BGYYY2 super GGGGG3
+                   BGGBY2 museu GGGGG3
+                   GGGGG2 
+      BGBBY1 serja BBBBB2 cupom GGGGG3
+                   BBYBB2 rumor BGBGG3 tutor GGGGG4
+                                BGGGG3 humor GGGGG4
+                                GGBGG3 rubor GGGGG4
+                                GGGGG3 
+                   BBGBB2 furor GGGGG3
+                   YBBBB2 nulos BGBGG3 cubos GGGGG4
+                                GGGGG3 
+                   YBBYB2 cujos GGGGG3
+                   YBYBB2 rumos GGGGG3
+                   YBGBB2 muros BGGGG3 furos GGGGG4
+                                GGGGG3 
+                   YBGYB2 juros GGGGG3
+                   YYGBB2 euros GGGGG3
+                   GBBBB2 sucos GGGGG3
+                   GBBYB2 sujos GGGGG3
+                   GBYBB2 supor GGGGG3
+      BGBBG1 sacre BBBBB2 junto BGBBG3 vulgo GGGGG4
+                                BGBYG3 mutuo GGGGG4
+                                BGBGG3 vulto GGGGG4
+                                BGGBG3 punho BGGBG4 fungo GGGGG5
+                                             GGGGG4 
+                                GGBBG3 julho GGGGG4
+                                GGGBG3 junho GGGGG4
+                                GGGGG3 
+                   BBBBY2 gueto GGGGG3
+                   BBBYB2 turno GGGBG3 turvo GGGGG4
+                                GGGGG3 
+                   BBBGB2 murro BGBGG3 outro GGGGG4
+                                BGYGG3 rubro GGGGG4
+                                BGGGG3 burro GGGGG4
+                                GGGGG3 
+                   BBYBB2 culto GGGGG3
+                   BBYYB2 turco GGGGG3
+                   BBGBB2 bucho GGGGG3
+                   BBGGB2 lucro GGGGG3
+                   YBBBB2 busto BGYBG3 pulso GGGGG4
+                                BGGBG3 musgo GGGGG4
+                                BGGGG3 justo GGGGG4
+                                GGGGG3 
+                   YBBYB2 russo GGGGG3
+                   YBYBB2 custo GGGGG3
+                   YBYYB2 curso GGGGG3
+                   GBBBB2 susto GGGGG3
+                   GBBYB2 surto GGGGG3
+                   GBYBY2 sueco GGGGG3
+      BGBYB1 suite BGGBG2 quibe GGGGG3
+                   GGYBB2 sushi GGGGG3
+                   GGGGG2 
+      BGBYG1 volts BYBBB2 juizo GGGGG3
+                   BYBBY2 suino GGGGG3
+                   BYBGB2 muito GGGGG3
+                   BYYBB2 quilo GGGGG3
+                   YYBBB2 ruivo GGGGG3
+      BGBGB1 sumir BGBGB2 futil GGBGG3 funil GGGGG4
+                                GGGGG3 
+                   BGBGG2 fugir BGBGG3 punir GGGGG4
+                                BGGGG3 rugir GGGGG4
+                                GGGGG3 
+                   BGYGB2 cupim GGGGG3
+                   YGBGB2 cutis GGGGG3
+                   GGBGB2 sutil GGGGB3 sutis GGGGG4
+                                GGGGG3 
+                   GGBGG2 subir GGGGG3
+                   GGGGG2 
+      BGBGY1 ouvir GGGGG2
+      BGYBB1 duque GGGGG2
+      BGYBY1 duros GGGGG2
+      BGYBG1 melar BBBBB2 fundo GGGGG3
+                   BBBBY2 surdo GGGGG3
+                   BBYBB2 duplo GGGGG3
+                   BYBBB2 dueto GGGGG3
+                   BYYBB2 duelo GGGGG3
+                   GBBBB2 mundo GGGGG3
+      BGGBB1 nudez GGGGG2
+      BGGBY1 pudor GGGGG2
+      BGGGB1 pudim GGGGG2
+      YBBBB1 serta BBBBY2 canal BGBGB3 pagam GGGGG4
+                                BGYGG3 naval GGGGG4
+                                BGGGG3 banal GGGGG4
+                                GGBGB3 capaz GGGGG4
+                                GGGGG3 
+                   BBBBG2 banca BYBYG3 chapa GGGGG4
+                                BYBGG3 placa GGGGG4
+                                BGBBG3 palma GGBYG4 pampa GGGGG5
+                                             GGGBG4 palha GGGGG5
+                                             GGGGG4 
+                                BGBYG3 calma GGGBG4 calva GGGGG5
+                                             GGGGG4 
+                                BGBGG3 calca GGGGG4
+                                BGYBG3 magna GGGGG4
+                                BGGBG3 manga GGGBG4 manha GGGGG5
+                                             GGGGG4 
+                                BGGYG3 canja GGGGG4
+                                BGGGG3 lanca GGGGG4
+                                YGBBG3 gamba GGGGG4
+                                GGBBG3 bamba GGGGG4
+                                GGGGG3 
+                   BBBYY2 natal BGGGG3 fatal GGGGG4
+                                GGGGG3 
+                   BBBYG2 tampa GGBBG3 tanga GGGGG4
+                                GGGGG3 
+                   BBBGG2 manta BYBGG3 chata GGGGG4
+                                BGGGG3 janta GGGGG4
+                                GGGGG3 
+                   BBYBY2 locam BBBGB3 vagar BGBGY4 rapaz GGGGG5
+                                             BGBGG4 bazar GGBGG5 babar GGGGG6
+                                                          GGGGG5 
+                                             BGGGG4 pagar GGGGG5
+                                             GGBGG4 vazar GGGGG5
+                                             GGGGG4 
+                                BBBGY3 mamar GGGGG4
+                                BBYGB3 cavar GGGGG4
+                                BBGGB3 cacar GGGGG4
+                                YBBGB3 falar BGGGG4 ralar GGGGG5
+                                             GGGGG4 
+                                YBYGB3 calar GGGGG4
+                                GBBGB3 lavar GGGGG4
+                   BBYBG2 cango BYBBB3 brava GGGGG4
+                                BYBYB3 grama GGGBG4 graxa GGGGG5
+                                             GGGGG4 
+                                BYBGB3 praga GGGGG4
+                                BYYYB3 grana GGGGG4
+                                BGBBB3 rampa GGGGG4
+                                YYBBB3 praca BGGGG4 fraca GGGGG5
+                                             GGGGG4 
+                                YYBYB3 graca GGGGG4
+                                GYBBB3 clara GGGGG4
+                                GGBBB3 cabra GGGGG4
+                   BBYYY2 catar BGYGG3 tapar GGGGG4
+                                BGGGG3 matar GGGGG4
+                                GGGGG3 
+                   BBYYG2 trama GGGBG3 trava GGGGG4
+                                GGGGG3 
+                   BBYGG2 prata BGGGG3 grata GGGGG4
+                                GGGGG3 
+                   BBGBY2 varal BGGGB3 parar GGGGG4
+                                GGGGG3 
+                   BBGBG2 paigc BGBBB3 farra BGGBG4 larva BGGBG5 barba GGGGG6
+                                                          GGGGG5 
+                                             BGGGG4 jarra GGGGG5
+                                             GGGGG4 
+                                BGBBY3 carma GGGGG4
+                                BGBYB3 garra GGGGG4
+                                BGBYY3 garca GGGGG4
+                                BGBGY3 carga GGGGG4
+                                YGBBB3 farpa BGGGG4 harpa GGGGG5
+                                             GGGGG4 
+                                YGBBY3 carpa GGGGG4
+                                GGBBB3 parma GGGGG4
+                   BBGYG2 tarja GGGGG3
+                   BBGGG2 carta GGGGG3
+                   BYBBY2 clave BBYBG3 mamae GGGGG4
+                                BBGBG3 exame GGGGG4
+                                BYYBY3 papel GGGGG4
+                                YYYBG3 lance GGGGG4
+                                GBGGG3 chave GGGGG4
+                                GYGBG3 chale GGGGG4
+                                GGGGG3 
+                   BYBBG2 plena GGGGG3
+                   BYBYG2 etapa GGGGG3
+                   BYBGY2 malte GGGGG3
+                   BYYBY2 lacre BYBYY3 frear GGGGG4
+                                BYBYG3 praxe GGGGG4
+                                BGBYY3 haver BGBGG4 fazer GGGGG5
+                                             GGGGG4 
+                                BGYYY3 caber GGGGG4
+                                YGBYY3 valer GGGGG4
+                                GGBYY3 lazer GGGGG4
+                                GGGGG3 
+                   BYYBG2 brega BGGGG3 grega GGGGG4
+                                GGGGG3 
+                   BYYYY2 trave YYYBY3 bater GGGGG4
+                                GGGBG3 traje GGGGG4
+                                GGGGG3 
+                   BYYYG2 trela YYYBG3 extra GGGGG4
+                                GGGBG3 trena GGGGG4
+                                GGGGG3 
+                   BYYGG2 preta BGGGG3 treta GGGGG4
+                                GGGGG3 
+                   BYGBY2 carne BYGBY3 errar GGGGG4
+                                GGGGG3 
+                   BYGGY2 marte BGGGG3 parte GGGGG4
+                                GGGGG3 
+                   BGBBY2 penal BGBGG3 legal GGGGG4
+                                GGGGG3 
+                   BGBBG2 lenha BGBBG3 femea GGGGG4
+                                YGBGG3 velha GGGGG4
+                                GGGGG3 
+                   BGBYY2 metal BGGGG3 fetal BGGGG4 letal GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   BGBYG2 tecla GGBYG3 telha GGGGG4
+                                GGGGG3 
+                   BGBGG2 lenta BGBGG3 beata GGGGG4
+                                BGGGG3 menta BGGGG4 penta GGGGG5
+                                             GGGGG4 
+                                YGBGG3 celta GGGGG4
+                                GGGGG3 
+                   BGYBY2 longa BBBBY3 remar BGBGG4 pecar GGGGG5
+                                             GGBGG4 rezar GGGGG5
+                                             GGGGG4 
+                                BBBYY3 pegar BGGGG4 regar GGGGG5
+                                             GGGGG4 
+                                BBYBY3 nevar GGGGG4
+                                BBYYY3 negar GGGGG4
+                                BBGBY3 penar GGGGG4
+                                YBBBY3 zelar GGGGG4
+                                YBBYY3 gelar GGGGG4
+                                GBBBY3 levar GGGGG4
+                   BGYBG2 relva YGBBG3 zebra GGGGG4
+                                GGBBG3 regra GGGGG4
+                                GGGGG3 
+                   BGYYY2 vetar GGGGG3
+                   BGYYG2 letra GGGGG3
+                   BGGBY2 geral BGGGB3 zerar GGGGG4
+                                GGGGB3 gerar GGGGG4
+                                GGGGG3 
+                   BGGBG2 perna BGGBG3 cerca BGGBG4 verba GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   BGGYG2 terca GGGBG3 terra GGGGG4
+                                GGGGG3 
+                   BGGGG2 certa GGGGG3
+                   YBBBY2 macas BGBGY3 nasal GGGGG4
+                                BGBGG3 balas GGGGG4
+                                BGYGY3 casal GGGGG4
+                                BGGGG3 vacas BGGGG4 facas GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YBBBG2 balsa BGBYG3 caspa GGGBG4 casca GGGGG5
+                                             GGGGG4 
+                                BGBGG3 mansa GGBGG4 massa GGGGG5
+                                             GGGGG4 
+                                BGGGG3 valsa BGGGG4 falsa GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YBBYY2 latas BGYGG3 tacas GGGGG4
+                                BGGGG3 patas BGGGG4 gatas GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YBBGG2 pcdob BBBBB3 vasta GGGGG4
+                                BBBBY3 basta GGGGG4
+                                BYBBB3 casta GGGGG4
+                                GBBBB3 pasta GGGGG4
+                   YBYBY2 casar GGGGG3
+                   YBYBG2 brasa GGGGG3
+                   YBGBY2 raras GGGGG3
+                   YBGBG2 farsa GGGGG3
+                   YYBBY2 gases BGBGG3 males BGBGG4 naves GGGGG5
+                                             GGGGG4 
+                                BGGGG3 fases GGGGG4
+                                GGGGG3 
+                   YYBGY2 haste GGGGG3
+                   YYYBY2 crase BGYYY3 ervas GGGGG4
+                                BGGGG3 frase GGGGG4
+                                GGGGG3 
+                   YYYBG2 presa GGGGG3
+                   YYYYY2 estar GGGGG3
+                   YYGBY2 lares BGGGG3 bares GGGGG4
+                                GGGGG3 
+                   YGBBY2 cenas BGBGG3 belas GGGGG4
+                                GGGGG3 
+                   YGBBG2 lesma BGGBG3 pesca YGGBG4 vespa GGGGG5
+                                             GGGGG4 
+                                BGGGG3 mesma GGGGG4
+                                GGGGG3 
+                   YGBYY2 telas GGGGG3
+                   YGBYG2 tensa GGGGG3
+                   YGBGG2 traco YBYBB3 besta BGGGG4 festa GGGGG5
+                                             GGGGG4 
+                                YBYYB3 cesta GGGGG4
+                                GBYBB3 testa GGGGG4
+                   YGYBY2 lesar BGGGG3 pesar GGGGG4
+                                GGGGG3 
+                   YGYYY2 retas GGGGG3
+                   YGGBY2 feras GGGGG3
+                   YGGBG2 persa GGGGG3
+                   GBBBY2 salas GGBGB3 sagaz GGGGG4
+                                GGGGG3 
+                   GBBBG2 samba GGBBG3 sanha GGBBG4 salsa GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   GBBGG2 santa GGGGG3
+                   GBYBY2 sacar GGBGG3 sanar GGGGG4
+                                GGGGG3 
+                   GBYBG2 sacra GGBGG3 safra GGGGG4
+                                GGGGG3 
+                   GBGBY2 sarar GGGGG3
+                   GBGBG2 sarna GGGGG3
+                   GYYBY2 saber GGGGG3
+                   GGBBG2 selva GGBBG3 senha GGGGG4
+                                GGGGG3 
+                   GGBGG2 sexta GGGGG3
+                   GGYBY2 selar GGBGG3 secar GGGGG4
+                                GGGGG3 
+                   GGYBG2 seara GGGGG3
+      YBBBY1 corsa BYBBY2 batom GGGGG3
+                   BYBBG2 omega YBBYG3 lagoa GGGGG4
+                                YBYBG3 nevoa GGGGG4
+                                YYBYG3 magoa GGGGG4
+                                GBBBG3 oxala GGGGG4
+                                GGGGG3 
+                   BYBYY2 pegma BBBBY3 fatos BGBGG4 vasos GGGGG5
+                                             GGGGG4 
+                                BBBYY3 matos GGGGG4
+                                BBGBY3 lagos GGGGG4
+                                BBGYY3 magos GGGGG4
+                                GBBBY3 panos GGGGG4
+                                GBGBY3 pagos GGGGG4
+                   BYBYG2 ossea GGGGG3
+                   BYYBY2 pavor BYBYG3 olhar GGGGG4
+                                BGBGG3 fator BGBGG4 major GGGGG5
+                                             GGGGG4 
+                                BGYGG3 valor GGGGG4
+                                BGGGG3 favor GGGGG4
+                                YYBYG3 optar GGGGG4
+                                YGYGG3 vapor GGGGG4
+                                GGGGG3 
+                   BYYBG2 tropa BYYYG3 opera GGGGG4
+                                BYGBG3 flora GGGGG4
+                                BGGYG3 prova GGGGG4
+                                YGGBG3 frota GGGGG4
+                                GGGGG3 
+                   BYYYY2 ramos YGBGY3 sabor GGGGG4
+                                GGGGG3 
+                   BYYYG2 ostra GGGGG3
+                   BYYGG2 prosa GGGGG3
+                   BYGBY2 farol GGGGG3
+                   BYGYY2 obras GGGGG3
+                   BGBBY2 boate BGYBB3 vogal GGGGG4
+                                BGYYB3 total GGGGG4
+                                GGGGG3 
+                   BGBBG2 lempa BBBBG3 tonta GGGGG4
+                                BBBYG3 ponta GGGGG4
+                                BBGBG3 bomba GGGGG4
+                                BBGYG3 pomba GGGGG4
+                                BBGGG3 pompa GGGGG4
+                                BYBYG3 poeta GGGGG4
+                                BYYYG3 poema GGGGG4
+                                YBBBG3 folga BGGBG4 bolha GGGGG5
+                                             GGGBG4 folha GGGGG5
+                                             GGGGG4 
+                                YBBGG3 polpa GGGGG4
+                                YYBBG3 goela GGGGG4
+                                YYYBG3 moela GGGGG4
+                                GBBBG3 longa GGGGG4
+                                GBGBG3 lomba GGGGG4
+                   BGBYY2 linfa BBBBY3 sopas GGGGG4
+                                BBBYY3 fofas GGGGG4
+                                BBYBY3 novas GGGGG4
+                                BBGBY3 zonas GGGGG4
+                                YBBBY3 molas GGGGG4
+                                GBBBY3 lojas GGGGG4
+                   BGBYG2 gosma GGGGG3
+                   BGBGG2 bolsa BGBGG3 nossa BGGGG4 fossa GGGGG5
+                                             GGGGG4 
+                                GGBGG3 bossa GGGGG4
+                                GGGGG3 
+                   BGYBY2 petal BBBGB3 gozar YGBGG4 jogar GGGGG5
+                                             GGGGG4 
+                                BBBGY3 rolar GGGGG4
+                                BBYGB3 tomar GGGGG4
+                                BBGGB3 notar BGGGG4 botar BGGGG5 votar GGGGG6
+                                                          GGGGG5 
+                                             GGGGG4 
+                                BBGGY3 lotar GGGGG4
+                                YBYGB3 topar GGGGG4
+                                GBBGB3 pomar GGGGG4
+                                GBBGY3 polar GGGGG4
+                   BGYBG2 rolha YGBYG3 honra GGGGG4
+                                GGGGG3 
+                   BGYYY2 volts BGBBY3 sonar YGBGG4 posar GGGGG5
+                                             GGBGG4 somar GGGGG5
+                                             GGGGG4 
+                                BGBBG3 rosas GGGGG4
+                                BGBYY3 tosar GGGGG4
+                                BGGBY3 solar GGGGG4
+                                YGBBY3 sovar GGGGG4
+                   BGYYG2 sobra GGBGG3 sogra GGGGG4
+                                GGGGG3 
+                   BGGBY2 moral BGGGB3 torax BGGGB4 voraz GGGGG5
+                                             GGGGG4 
+                                GGGGB3 morar GGGGG4
+                                GGGGG3 
+                   BGGBG2 torna BGGBG3 forma GGGGG4
+                                BGGYG3 norma GGGGG4
+                                BGGGG3 morna GGGGG4
+                                YGGBG3 porta BGGGG4 horta GGGGG5
+                                             GGGGG4 
+                                GGGBG3 torta GGGGG4
+                   BGGYY2 horas GGGGG3
+                   YYBBY2 bacon GGGGG3
+                   YYBBG2 epoca GGGGG3
+                   YYBYY2 lacos GGGGG3
+                   YYYBY2 ecoar GGGGG3
+                   YYYBG2 troca BGGGG3 broca GGGGG4
+                                GGGGG3 
+                   YGBBY2 lobar YGBGB3 vocal BGGGG4 focal GGGGG5
+                                             GGGGG4 
+                                YGYGB3 bocal GGGGG4
+                                GGBGB3 local GGGGG4
+                   YGBBG2 tocha GGGGG3
+                   YGBYY2 bocas GGGGG3
+                   YGBYG2 tosca BGGGG3 mosca BGGGG4 fosca GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YGYBY2 tocar BGGGG3 focar BGGGG4 rocar GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YGYBG2 rocha GGGGG3
+                   YGYYY2 socar GGGGG3
+                   YGYYG2 rosca GGGGG3
+                   YGGBG2 porca BGGGG3 forca GGGGG4
+                                GGGGG3 
+                   GYBBG2 canoa GGGGG3
+                   GYBYY2 cabos GGBGG3 cacos GGBGG4 casos GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   GYYBY2 calor GGGGG3
+                   GYGYY2 caros GGGGG3
+                   GGBBG2 conta GGBBG3 coala GGGGG4
+                                GGGGG3 
+                   GGBYY2 copas GGBGG3 coxas GGGGG4
+                                GGGGG3 
+                   GGBYG2 costa GGGGG3
+                   GGYBY2 colar GGBGG3 cocar GGGGG4
+                                GGGGG3 
+                   GGYBG2 cobra GGGGG3
+                   GGGBY2 coral GGGGB3 corar GGGGG4
+                                GGGGG3 
+                   GGGBG2 corja GGGBG3 coroa GGGGG4
+                                GGGGG3 
+      YBBBG1 caras BBBGB2 telao BBBGG3 fogao GGGGG4
+                                BGGGG3 melao GGGGG4
+                                YBBGG3 botao GGGGG4
+                                YYBGG3 entao GGGGG4
+                                GGGGG3 
+                   BBBGY2 tesao BGYGG3 senao GGGGG4
+                                BGGGG3 lesao GGGGG4
+                                YBYGG3 sotao GGGGG4
+                                GGGGG3 
+                   BBYGB2 orgao GGBGG3 orfao GGGGG4
+                                GGGGG3 
+                   BBGGB2 verao GGGGG3
+                   BYBBB2 beato BYGGG3 exato GGGGG4
+                                GBGGG3 boato GGGGG4
+                                GGGGG3 
+                   BYYBB2 prato BGGBG3 bravo GGGGG4
+                                BGGGG3 grato GGGGG4
+                                YGGYG3 trapo GGGGG4
+                                GGGBG3 prazo GGGGG4
+                                GGGGG3 
+                   BGBBB2 tango BGBBG3 palmo GGGGG4
+                                BGBYG3 galho GGGGG4
+                                BGGBG3 banho GGGBG4 banjo GGGGG5
+                                             GGGGG4 
+                                BGGYG3 ganho GGGGG4
+                                YGGBG3 manto GGGGG4
+                                GGGBG3 tanto GGGGG4
+                                GGGGG3 
+                   BGBBY2 split YBBBB3 manso BGGGG4 ganso GGGGG5
+                                             GGGGG4 
+                                YBBBY3 vasto BGGGG4 gasto GGGGG5
+                                             GGGGG4 
+                                YBGBB3 falso GGGGG4
+                                YYBBB3 passo GGGGG4
+                                YYBBY3 pasto GGGGG4
+                                YYYBB3 lapso GGGGG4
+                                GBBBY3 santo GGGGG4
+                                GBGBB3 salmo GGGGG4
+                                GBGBY3 salto GGGGG4
+                   BGBGB2 galao BGBGG3 pavao BGYGG4 vazao GGGGG5
+                                             GGGGG4 
+                                BGYGG3 latao GGGGG4
+                                BGGGG3 balao GGGGG4
+                                YGBGG3 vagao GGGGG4
+                                GGGGG3 
+                   BGBGY2 salao GGBGG3 sabao GGGGG4
+                                GGGGG3 
+                   BGYBB2 magro GGGGG3
+                   BGYGB2 razao GGGGG3
+                   BGGBB2 petra BBBYY3 garfo GGGGG4
+                                BBBGY3 barro BGGGG4 jarro GGGGG5
+                                             GGGGG4 
+                                BBYYY3 farto GGGGG4
+                                GBBYY3 parvo GGGGG4
+                                GBYYY3 parto GGGGG4
+                                GYBYY3 pareo GGGGG4
+                   BGGBY2 tarso BGGYG3 sarro GGGGG4
+                                GGGGG3 
+                   BGGGB2 barao BGGGG3 varao BGGGG4 farao GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YBBGB2 locao BYGGG3 opcao GGGGG4
+                                BGGGG3 nocao BGGGG4 pocao GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YBBGY2 secao GGGGG3
+                   YYBBB2 opaco GGGGG3
+                   YYYBB2 traco BGGGG3 braco BGGGG4 fraco GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   YGBBB2 talco BGBYG3 macho GGGGG4
+                                BGBGG3 manco BGGGG4 banco GGGGG5
+                                             GGGGG4 
+                                BGGGG3 palco GGGGG4
+                                GGGGG3 
+                   YGBBY2 basco GGGGG3
+                   YGBGB2 nacao BGGGG3 facao GGGGG4
+                                GGGGG3 
+                   YGYBB2 macro GGGGG3
+                   YGYBY2 sacro GGGGG3
+                   YGYGB2 racao GGGGG3
+                   YGGBB2 parco BGGGG3 barco GGGGG4
+                                GGGGG3 
+                   GBBGB2 coxao GGGGG3
+                   GYBBB2 chato GGGGG3
+                   GYYBB2 claro GBGYG3 cravo GGGGG4
+                                GGGGG3 
+                   GGBBB2 calmo GGBBG3 canto GGBBG4 cacho GGGGG5
+                                             GGGGG4 
+                                GGBYG3 campo GGGGG4
+                                GGGBG3 calvo GGGGG4
+                                GGGGG3 
+                   GGBBY2 casto GGGBG3 casco GGGGG4
+                                GGGGG3 
+                   GGBGB2 cacao GGGGG3
+                   GGGBB2 cargo GGGBG3 carro GGGGG4
+                                GGGGG3 
+      YBBYB1 firma BYBBY2 teias BYGYB3 baile BGGBG4 naipe GGGGG5
+                                             GGGGG4 
+                                BGGGG3 veias GGGGG4
+                                GGGGG3 
+                   BYBBG2 baita BBGBG3 seiva GGGGG4
+                                BBGYG3 etica GGGGG4
+                                BBGGG3 seita GGGGG4
+                                BGGBG3 caixa GGGGG4
+                                BGGGG3 gaita GGGGG4
+                                GGGBG3 baixa GGGGG4
+                                GGGGG3 
+                   BYBYY2 meias GGGGG3
+                   BYBYG2 meiga GGGGG3
+                   BYBGG2 clima GGGGG3
+                   BYYBY2 criar BBGGG3 vaiar GGGGG4
+                                BYGGG3 raiar GGGGG4
+                                GBGGG3 chiar GGGGG4
+                                GGGGG3 
+                   BYYBG2 brisa BYGBG3 raiva GGGGG4
+                                BGGBG3 tripa GGGGG4
+                                GYGBG3 beira GGGGG4
+                                GGGBG3 briga GGGGG4
+                                GGGGG3 
+                   BYYYY2 irmas GYYGB3 impar GGGGG4
+                                GGGGG3 
+                   BGBBY2 sinal BGBGG3 vital GGGGG4
+                                YGBGY3 lilas GGGGG4
+                                GGGGG3 
+                   BGBBG2 pinta BGBBG3 sigla GGGGG4
+                                BGBGG3 vista GGGGG4
+                                BGYBG3 hiena GGGGG4
+                                BGGBG3 colga BBBBG4 ninja GGGGG5
+                                             BBBGG4 ginga GGGGG5
+                                             BBYBG4 linha GGGGG5
+                                             GBBBG4 cinza GGGGG5
+                                BGGGG3 cinta BGGGG4 tinta GGGGG5
+                                             GGGGG4 
+                                GGBBG3 pilha GGBBG4 pizza GGGGG5
+                                             GGGGG4 
+                                GGBGG3 pista GGGGG4
+                                GGGBG3 pinca GGGBG4 pinga GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+                   BGBYG2 mista GGBBG3 milha GGBGG4 minha GGGGG5
+                                             GGGGG4 
+                                GGGBG3 missa GGGGG4
+                                GGGGG3 
+                   BGBGG2 sigma GGGGG3
+                   BGYBY2 lapso BYBBB3 citar BGBGG4 ninar GGGGG5
+                                             GGGGG4 
+                                BYBYB3 visar GGGGG4
+                                BYYBB3 picar GGGGG4
+                                BYYYB3 pisar GGGGG4
+                                YYBBB3 rival GGGGG4
+                                YYYBB3 pilar GGGGG4
+                                GYBBB3 ligar GGBGG4 lixar GGGGG5
+                                             GGGGG4 
+                   BGYBG2 libra GGGGG3
+                   BGYYY2 rimar BGGGG3 mimar GGGGG4
+                                GGGGG3 
+                   BGGBY2 topar BBBGY3 viral GGGGG4
+                                BBBGG3 virar BGGGG4 girar GGGGG5
+                                             GGGGG4 
+                                BBYGG3 pirar GGGGG4
+                                GBBGG3 tirar GGGGG4
+                   BGGBG2 birra GGGGG3
+                   BGGYY2 mirar GGGGG3
+                   YYYBG2 infra GGGGG3
+                   YGBBG2 ninfa GGGGG3
+                   YGYBG2 cifra GGGGG3
+                   GYBBY2 feias GGGGG3
+                   GYBBG2 feita GBGBG3 faixa GGGGG4
+                                GGGGG3 
+                   GYYBY2 frias GGGGG3
+                   GYYBG2 feira GGGGG3
+                   GGBBY2 final GGGGG3
+                   GGBBG2 filha GGBGG3 ficha GGGGG4
+                                GGGGG3 
+                   GGYBY2 ficar GGBGG3 fixar GGGGG4
+                                GGGGG3 
+                   GGYBG2 fibra GGGGG3
+                   GGGGG2 
+      YBBYY1 lomba BYBBY2 raios GGGGG3
+                   BYBBG2 otica GGGGG3
+                   BYYBY2 maior GGGGG3
+                   BYYBG2 otima GGGGG3
+                   BYYYG2 bioma GGGGG3
+                   BGBBY2 joias GGGGG3
+                   BGBBG2 coisa BGGBG3 noiva GGGGG4
+                                GGGGG3 
+                   BGBYY2 boiar GGGGG3
+                   BGBYG2 boina GGGGG3
+                   BGYBG2 moita GGGGG3
+                   YYBBY2 paiol GGGGG3
+                   YYBBG2 viola GGGGG3
+                   GGBBG2 loira GGGGG3
+      YBBYG1 picas BYBYB2 inato GGGGG3
+                   BYBGB2 irmao GGGGG3
+                   BYYYB2 laico GGGGG3
+                   BGBYB2 hiato GGGGG3
+                   BGBGB2 limao YGBGG3 vilao GGGGG4
+                                GGGGG3 
+                   BGBGY2 visao GGGGG3
+                   BGYGY2 cisao GGGGG3
+                   BGGGB2 licao GGGGG3
+                   YGBYB2 fiapo GGGGG3
+                   GGBYB2 piano GGGGG3
+                   GGBGB2 pirao GGGGG3
+      YBBGB1 letra BBBBY2 capim GGGGG3
+                   BBBBG2 manco BGBBB3 sabia BGBGG4 vazia GGGGG5
+                                             GGGGG4 
+                                BGBYB3 bacia GGGGG4
+                                GGBBB3 magia GGBGG4 mafia GGGGG5
+                                             GGGGG4 
+                                GGBYB3 macia GGGGG4
+                                GGGBB3 mania GGGGG4
+                   BBBYY2 banir BGBGG3 parir GGGGG4
+                                BGYGY3 nariz GGGGG4
+                                GGGGG3 
+                   BBBYG2 praia BYBGG3 giria GGGGG4
+                                GGGGG3 
+                   BBYBY2 taxis GGGGG3
+                   BBYBG2 tibia GGGGG3
+                   BBYYY2 trair GGGGG3
+                   BBGBY2 matiz GGGGG3
+                   BBGBG2 titia GGGGG3
+                   BYBBG2 cheia GGGGG3
+                   BYBYY2 carie GGGGG3
+                   BYYBG2 etnia GGGGG3
+                   BGBBG2 bebia GGGGG3
+                   BGBYY2 reais GGGGG3
+                   YBBBY2 canil BGBGG3 habil GGGGG4
+                                YGBGG3 facil GGGGG4
+                                GGGGG3 
+                   YBBYY2 falir GGGGG3
+                   YBGBY2 tatil GGGGG3
+                   GBBBY2 lapis GGGGG3
+                   GBBBG2 labia GGGGG3
+                   GBGBY2 latim GGGGG3
+                   GBGYY2 latir GGGGG3
+      YBBGY1 folia BYBGY2 oasis GGGGG3
+                   BYBGG2 orgia GGGGG3
+                   BGBGG2 copia BGBGG3 sosia GGGGG4
+                                GGGGG3 
+                   GGBGG2 fobia GGGGG3
+                   GGGGG2 
+      YBBGG1 pavio BGBGG2 sabio BGBGG3 macio GGGGG4
+                                BGGGG3 labio GGGGG4
+                                GGGGG3 
+                   BGYGG2 vazio GGGGG3
+                   BGGGG2 navio GGGGG3
+                   GGBGG2 patio GGGGG3
+                   GGGGG2 
+      YBYBB1 farta BBBBG2 lenda BGGYG3 densa GGGGG4
+                                BGGGG3 venda GGGGG4
+                                GGGGG3 
+                   BBBYG2 tenda GGGGG3
+                   BBBGG2 delta GGGGG3
+                   BBYBG2 renda GGGGG3
+                   BBGBG2 perda GGGGG3
+                   BYBBG2 geada GGGGG3
+                   BYYBB2 grade GGGGG3
+                   BYYBG2 drama GGGGG3
+                   BGBBB2 balde GGGGG3
+                   BGBBY2 damas GGGGG3
+                   BGBBG2 panda BGBGG3 calda GGGGG4
+                                BGGGG3 banda GGGGG4
+                                GGGGG3 
+                   BGGBG2 sarda BGGGG3 parda GGGGG4
+                                GGGGG3 
+                   BGGYB2 tarde GGGGG3
+                   BGGYG2 tarda GGGGG3
+                   GBBBG2 fenda GGGGG3
+                   GYYBB2 frade GGGGG3
+                   GGGBG2 farda GGGGG3
+      YBYBY1 moras BYBYG2 danos GGGGG3
+                   BGBYB2 toada GGGGG3
+                   BGYYB2 dobra GGGGG3
+                   BGYGB2 dotar GGBGG3 dolar GGGGG4
+                                GGGGG3 
+                   BGYGY2 dosar GGGGG3
+                   BGGYB2 corda BGGGG3 borda GGGGG4
+                                GGGGG3 
+                   YGBYB2 dogma GGGGG3
+                   YGYGB2 domar GGGGG3
+                   GGBYB2 moeda GGGGG3
+      YBYBG1 pardo BGBGG2 mando BGBGG3 caldo GGGGG4
+                                BGGGG3 bando GGGGG4
+                                GGGGG3 
+                   BGGGG2 fardo BGGGG3 dardo GGGGG4
+                                GGGGG3 
+                   GYYGG2 prado GGGGG3
+                   GGGGG2 
+      YBYYB1 ceava BBBBG2 linda GGGGG3
+                   BBBYG2 vinda GGGGG3
+                   BBYBB2 ditar GGGGG3
+                   BBYBG2 saida GGGGG3
+                   BBYYB2 divas GGGGG3
+                   BBGBG2 piada GGGGG3
+                   BYBBG2 dieta GGGGG3
+                   BYYBB2 ideal GGGGG3
+                   BYGBB2 idade GGGGG3
+                   YBYBB2 dicas GGGGG3
+                   GBYBG2 caida GGGGG3
+      YBYYY1 odiar YYGYB2 moida GGGGG3
+                   YGYYB2 idosa GGGGG3
+                   GGGGG2 
+      YBYYG1 irado YBGGG2 fiado GGGGG3
+                   GGGGG2 
+      YBYGB1 ideia GGGGG2
+      YBGBB1 redea BGGBY2 pedal GGGGG3
+                   YBGBY2 nadar GGGGG3
+                   YYGBY2 padre GGGGG3
+                   YGGBG2 pedra GGGGG3
+                   GBGBY2 radar GGGGG3
+                   GGGGG2 
+      YBGBY1 rolam BYBYB2 dados GGGGG3
+                   BYBGB2 ondas GGGGG3
+                   BYYYB2 lados GGGGG3
+                   BGBGB2 todas GGGGG3
+                   BGBGY2 modas GGGGG3
+                   YGBGB2 podar GGGGG3
+                   GGBGB2 rodar GGGGG3
+      YBGBG1 dedao GGGGG2
+      YBGYB1 lidar BGGGB2 vidas GGGGG3
+                   GGGGG2 
+      YBGGB1 media BBGGG2 sadia GGGGG3
+                   GBGGG2 midia GGGGG3
+                   GGGGG2 
+      YBGGG1 radio BGGGG2 sadio GGGGG3
+                   GGGGG2 
+      YYBBB1 rapas BBBGB2 tchau GGGGG3
+                   BBBGY2 usual GGGGG3
+                   BBBGG2 unhas GGGGG3
+                   BYBBB2 chuva GGGGG3
+                   BYBBY2 blusa GGGGG3
+                   BYYBB2 pluma GGGGG3
+                   BGBBB2 caule BGYBB3 bambu GGGGG4
+                                BGYBG3 baque GGGGG4
+                                GGGGG3 
+                   BGBBY2 saque GGGGG3
+                   BGBYB2 fauna BGYBG3 tabua GGGGG4
+                                BGGBG3 jaula GGGGG4
+                                GGGGG3 
+                   BGBYY2 causa BGGYG3 sauna GGGGG4
+                                GGGGG3 
+                   BGBGB2 cacau GGGGG3
+                   BGYBB2 xampu GGGGG3
+                   BGYYB2 pauta GGGGG3
+                   BGYYY2 pausa GGGGG3
+                   BGGBB2 capuz GGGGG3
+                   YBBGB2 untar GGGGG3
+                   YBBGG2 urnas GGGGG3
+                   YYBBB2 trufa BGGBG3 bruxa GGGGG4
+                                YGGBG3 gruta GGGGG4
+                                YGGYG3 fruta GGGGG4
+                                GGGBG3 truta GGGGG4
+                                GGGGG3 
+                   YYBBY2 usura GGGGG3
+                   YYBBG2 graus GGGGG3
+                   YYYBB2 perua GGGGG3
+                   YGBGY2 sarau GGGGG3
+                   GYBBB2 regua GGGGG3
+      YYBBY1 roupa BGGBG2 lousa BGGBG3 touca GGGGG4
+                                GGGBG3 louca GGGGG4
+                                GGGGG3 
+                   BGGYG2 pouca GGGGG3
+                   YGGBG2 loura GGGGG3
+                   GGGBG2 rouca GGGGG3
+                   GGGGG2 
+      YYBBG1 vacuo GGGGG2
+      YYBYB1 unica YBYBY2 igual GGGGG3
+                   YBYYY2 caqui GGGGG3
+                   GYGBG2 usina GGGGG3
+                   GGGGG2 
+      YYBYG1 uniao GGGGG2
+      YYYBB1 lauda BBGYG2 deusa GGGGG3
+                   BYYGG2 usada GGGGG3
+                   BGGGB2 saude GGGGG3
+                   BGGGG2 cauda GGGGG3
+                   GGGGG2 
+      YYYBG1 laudo GGGGG2
+      YYYYB1 unida YBYYY2 daqui GGGGG3
+                   GGGGG2 
+      YGBBB1 lerca BBBBY2 musas BGBGB3 fugaz GGGGG4
+                                GGGGG3 
+                   BBBBG2 tumba BGBBG3 sunga GGGGG4
+                                YGBBG3 justa GGGGG4
+                                YGYBG3 mutua GGGGG4
+                                GGGGG3 
+                   BBBYG2 bucha GGGGG3
+                   BBBGG2 nunca GGGGG3
+                   BBYBY2 fumar BGBGG3 sujar BGBGG4 puxar GGGGG5
+                                             GGGGG4 
+                                YGBGG3 bufar GGGGG4
+                                GGGGG3 
+                   BBYYY2 fucar GGGGG3
+                   BBGBY2 furar BGGGG3 jurar GGGGG4
+                                GGGGG3 
+                   BBGBG2 surra BGGBG3 turma GGGGG4
+                                BGGGG3 burra GGGGG4
+                                GGGGG3 
+                   BBGYY2 curar GGGGG3
+                   BBGYG2 curva GGGGG3
+                   BYBBY2 suave YGGBG3 quase GGGGG4
+                                GGGGG3 
+                   BYBGG2 cueca GGGGG3
+                   YBBBG2 multa BGGBG3 pulga GGGGG4
+                                GGGGG3 
+                   YBBYY2 bucal GGGGG3
+                   YBBYG2 culta GGGGG3
+                   YBYBY2 pular GGGGG3
+                   YBGBY2 mural BGGGG3 rural GGGGG4
+                                GGGGG3 
+                   YYYBG2 ruela GGGGG3
+                   GBBBY2 luvas GGGGG3
+                   GBYBY2 lutar GGBGG3 lunar GGBGG4 lugar GGGGG5
+                                             GGGGG4 
+                                GGGGG3 
+      YGBBY1 ousar YGBYB2 quota GGGGG3
+                   GGBYY2 outra GGGGG3
+                   GGGGG2 
+      YGBBG1 tufao BGBGG2 puxao GGGGG3
+                   BGYGG2 fusao GGGGG3
+                   BGGGG2 bufao GGGGG3
+                   GGGGG2 
+      YGBYB1 tonar BBBYB2 quica BGGBG3 juiza GGGGG4
+                                GGGGG3 
+                   BBBYY2 ruiva GGGGG3
+                   BBBGG2 guiar GGGGG3
+                   BBYYB2 quina GGGGG3
+                   BBYYY2 ruina GGGGG3
+                   YBBYB2 muita GGGGG3
+      YGBGB1 guria BGBGY2 quais GGGGG3
+                   BGBGG2 sutia BGBGG3 mumia GGGGG4
+                                GGGGG3 
+                   BGGGG2 furia GGGGG3
+                   GGGGG2 
+      YGYBB1 surda BGBYG2 dupla GGBBG3 ducha GGGGG4
+                                GGGGG3 
+                   BGBGG2 queda GGGGG3
+                   BGGYY2 durar GGGGG3
+                   YGBYY2 dunas GGGGG3
+                   GGGGG2 
+      YGYBG1 suado GGGGG2
+      YGYGB1 duzia GGGGG2
+      YGGBB1 mudar GGGGG2
+      GBBBB1 remas BBBGG2 atlas GBBGG3 aspas GGGGG4
+                                GGGGG3 
+                   BBYYB2 ampla GGGGG3
+                   BBYGG2 ambas GGGGG3
+                   BBGGG2 almas GGGGG3
+                   BYBYB2 avela GGGGG3
+                   BYBYY2 acesa GGGGG3
+                   BYBYG2 antes GGGGG3
+                   BYYYB2 ameba GGGGG3
+                   YBBYB2 angra GGGGG3
+                   YBBGB2 alcar GBYGG3 achar GGGGG4
+                                GBGGG3 arcar GGGGG4
+                                GGBGG3 altar GGGGG4
+                                GGGGG3 
+                   YBBGY2 assar GGGGG3
+                   YBBGG2 atras GGGGG3
+                   YBYGB2 ambar GGGGG3
+                   YBGGB2 armar GGGGG3
+                   YYBYB2 arena GGYBY3 arabe GGGGG4
+                                GGGGG3 
+                   YYBYG2 artes GGGGG3
+                   YYBGB2 areal GGGGG3
+                   YYBGG2 areas GGGGG3
+                   YYYYB2 arame GGGGG3
+                   YGBYB2 aerea GGGGG3
+      GBBBY1 croma BBYBY2 altos GBBGG3 anjos GGGGG4
+                                GYBGB3 anzol GGGGG4
+                                GGBGB3 algoz GGGGG4
+                                GGGGG3 
+                   BBYYY2 ambos GGGGG3
+                   BBGBY2 anoes GGGGG3
+                   BYYBY2 atroz GGGGG3
+                   BYGBG2 agora GGGGG3
+                   BYGYG2 amora GGGGG3
+                   BGYBY2 arroz GGGGG3
+                   BGGGG2 aroma GGGGG3
+                   YBGBY2 acoes GGGGG3
+                   YBGBG2 acola GGGGG3
+                   YGYBY2 arcos GGGGG3
+      GBBBG1 anema GBBBB2 astro GGGGG3
+                   GBBBY2 acaro GBGBG3 afago GGGGG4
+                                GBGGG3 avaro GGGGG4
+                                GGGBG3 acaso GGGGG4
+                                GGGGG3 
+                   GBBYB2 amplo GGGGG3
+                   GBBYY2 amago GGGGG3
+                   GBBGB2 atomo GGGGG3
+                   GBYBB2 aereo GGGGG3
+                   GBGBB2 apelo GBGBG3 afeto GGGGG4
+                                GGGGG3 
+                   GYBBB2 abono GGGGG3
+                   GYBBY2 abano GGGGG3
+                   GYGBB2 aceno GGGGG3
+                   GYGYB2 ameno GGGGG3
+                   GGBBB2 antro GGGGG3
+                   GGGBB2 anexo GGGGG3
+      GBBYB1 aliar GBGBB2 apice GBGBB3 afins GGGGG4
+                                GGGGG3 
+                   GBGBY2 aries GGGGG3
+                   GBGYB2 acima GGGGG3
+                   GYGYB2 axila GGGGG3
+                   GGGBB2 alibi GGGGG3
+                   GGGGB2 alias GGGGG3
+                   GGGGG2 
+      GBBYG1 aviso GBGBG2 apito GBGBG3 animo GGGGG4
+                                GGGGG3 
+                   GGGBG2 aviao GGGGG3
+                   GGGGG2 
+      GBBGB1 estar BBBYY2 abril GGGGG3
+                   BBBYG2 abrir GGGGG3
+                   BBYYY2 atriz GGGGG3
+                   BYBYB2 ansia GGGGG3
+                   BGBYB2 assim GGGGG3
+                   YBBYB2 aveia GGGGG3
+                   YBBYY2 areia GGGGG3
+                   YYBYB2 aneis GBGGG3 ageis GGGGG4
+                                GGGGG3 
+      GBBGG1 apoio GGGGG2
+      GBYBB1 adega GYBBG2 amada GGGGG3
+                   GGBGG2 adaga GGGGG3
+                   GGGGG2 
+      GBYBY1 aonde GGGGG2
+      GBYBG1 azedo GBBGG2 alado GGGGG3
+                   GGGGG2 
+      GBYYB1 adiar GYYYB2 ainda GGGGG3
+                   GGGGG2 
+      GBYYG1 coram BYBYB2 avido GGGGG3
+                   BYBYY2 amido GGGGG3
+                   BYYYB2 arido GGGGG3
+                   YYBYB2 acido GGGGG3
+      GBYGB1 advir GGGGG2
+      GBGBB1 arder GBGBG2 andar GGGGG3
+                   GGGGG2 
+      GBGBY1 ardor GGGGG2
+      GYBBB1 atuar GBYBB2 album GGBGG3 algum GGGGG4
+                                GGGGG3 
+                   GBGGB2 anual GGGGG3
+                   GGGGB2 atual GGGGG3
+                   GGGGG2 
+      GYBBG1 abuso GBGBG2 aluno GGGGG3
+                   GGGGG2 
+      GYBGB1 aguia GGGGG2
+      GYYBB1 adeus GYBYB2 ajuda GGGGG3
+                   GYYYB2 acude GGGGG3
+                   GGGGG2 
+      GYYBG1 agudo GGGGG2
+      GYGBB1 ardua GGGGG2
+      GYGBG1 arduo GGGGG2
+      GGBBB1 aulas GGGGG2
+      GGBBY1 autor GGGGB2 autos GGGGG3
+                   GGGGG2 
+      GGBBG1 aureo GGGGG2
+      GGGGG1 
